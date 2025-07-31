@@ -112,6 +112,9 @@ cd cypress-heroes
 # Install dependencies
 npm install
 
+# Set up database
+npm run setup
+
 # Start server
 npm run dev
 
